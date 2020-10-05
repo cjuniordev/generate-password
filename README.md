@@ -2,7 +2,7 @@
 
 ## A app for generate passwords create with python.
 
-![Badge](https://img.shields.io/badge/<python>-<v3>-<#0470AD>)
+![Badge](https://img.shields.io/badge/python-v3-<#0470AD>)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcjuniordev)
 
 ### Prerequisites
